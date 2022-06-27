@@ -96,6 +96,7 @@ lib/skalibs/sysdeps/util.lib
 %%PORTDOCS%%%%DOCSDIR%%/index.html
 %%PORTDOCS%%%%DOCSDIR%%/libdatastruct/genqdyn.html
 %%PORTDOCS%%%%DOCSDIR%%/libdatastruct/index.html
+%%PORTDOCS%%%%DOCSDIR%%/libposixplz/index.html
 %%PORTDOCS%%%%DOCSDIR%%/librandom/index.html
 %%PORTDOCS%%%%DOCSDIR%%/libskarnet.html
 %%PORTDOCS%%%%DOCSDIR%%/libstdcrypto/index.html
